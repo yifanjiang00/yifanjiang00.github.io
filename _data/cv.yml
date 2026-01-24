@@ -4,7 +4,7 @@ cv:
   email: yifanj670@gmail.com
   location: ZJU, Hangzhou
   image: ""
-  summary: A student.
+  summary: A student majoring in artificial intelligence.
 
   social_networks:
     # - network: X
@@ -18,33 +18,31 @@ cv:
     street: 866 Yu Hang Tang Lu
     city: Hangzhou
     region: Zhejiang
-    postalCode: CA 310058
+    postalCode: 310058
     countryCode: CN
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: Zhejiang University
+        location: Hangzhou, China
+        url: https://www.zju.edu.cn/english/
+        area: Artificial Intelligence
+        studyType: B.Eng
+        start_date: 2024
+        end_date: 2028
         score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        # courses: "Theory of Relativity"
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Hangzhou No.2 High School of Zhejiang Province
+        location: Hangzhou, China
+        # url: https://www.zju.edu.cn/english/
+        # area: Artificial Intelligence
+        studyType: High School Diploma
+        start_date: 2021
+        end_date: 2024
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
