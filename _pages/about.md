@@ -31,3 +31,5 @@ Yifan Jiang is an undergraduate student in the [College of Computer Science and 
 His research interests lie in large language model reasoning and multimodal learning, with a focus on understanding and improving the reasoning capabilities of foundation models across different modalities.
 
 He is broadly interested in the theoretical foundations and practical methodologies of modern artificial intelligence, and aims to pursue advanced research in related areas.
+
+He has published work on visual reasoning benchmarks for vision-language models, including [GSM8K-V](https://arxiv.org/abs/2509.25160) (EMNLP 2026).
