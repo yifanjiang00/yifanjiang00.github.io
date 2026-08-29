@@ -1,5 +1,5 @@
 # Social media links and usernames
-cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
+# cv_pdf: /assets/pdf/your_cv.pdf # uncomment once you add a real CV PDF
 email: yifanj670@gmail.com
 scholar_userid: WTqTBU8AAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code image

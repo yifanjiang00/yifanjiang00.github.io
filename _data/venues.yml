@@ -1,1 +1,6 @@
 # Venue (journal/conference) URL and color mappings for publication badges
+# Use dark colors: the badge text is rendered in white.
+
+"EMNLP":
+  url: "https://2026.emnlp.org/"
+  color: "#1b3a57"

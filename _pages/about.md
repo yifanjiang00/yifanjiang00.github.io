@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Zijingang Campus, Zhejiang Univserity</p>
+    <p>Zhejiang Univserity</p>
     <p>Hangzhou, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -26,8 +26,4 @@ latest_posts:
 
 Yifan Jiang is an undergraduate student in the [College of Computer Science and Technology at Zhejiang University](http://www.en.cs.zju.edu.cn/), majoring in Artificial Intelligence.
 
-His research interests lie in large language model reasoning and multimodal learning, with a focus on understanding and improving the reasoning capabilities of foundation models across different modalities.
-
-He is broadly interested in the theoretical foundations and practical methodologies of modern artificial intelligence, and aims to pursue advanced research in related areas.
-
-He has published work on visual reasoning benchmarks for vision-language models, including [GSM8K-V](https://arxiv.org/abs/2509.25160) (EMNLP 2026).
+His research interests lie primarily in **natural language processing and large language models**, with a particular focus on **post-training and reasoning**. He is interested in developing methods that enhance the reasoning capabilities, reliability, and generalization of large language models.He is also interested in **multimodal learning and reasoning**, exploring how foundation models can effectively understand and reason across different modalities.
