@@ -68,7 +68,7 @@ cv:
         summary: First prize in provincial mathematics competition.
 
     Publications:
-      - title: GSM8K-V: Can Vision Language Models Solve Grade School Math Word Problems in Visual Contexts
+      - title: "GSM8K-V: Can Vision Language Models Solve Grade School Math Word Problems in Visual Contexts"
         authors:
           - Fan Yuan
           - Yuchen Yan

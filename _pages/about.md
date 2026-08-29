@@ -21,9 +21,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false # no blog posts on this site
 ---
 
 Yifan Jiang is an undergraduate student in the [College of Computer Science and Technology at Zhejiang University](http://www.en.cs.zju.edu.cn/), majoring in Artificial Intelligence.
