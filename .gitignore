@@ -1,5 +1,6 @@
 _site
 .bundle
+.workbuddy/
 .DS_store
 .idea
 .jekyll-cache
