@@ -34,6 +34,18 @@ cv:
         end_date: 2024
 
     Experience:
+      - company: University of Wisconsin–Madison
+        position: Research Intern
+        location: Madison, USA
+        url: https://www.wisc.edu/
+        start_date: 2026-08
+        end_date: present
+        summary: Conducting research on retrieval-augmented generation (RAG), LLM reasoning, and multimodal LLM reasoning.
+        highlights:
+          - "Instructor: [Prof. Xiao Luo](https://luoxiao12.github.io/)"
+          - Retrieval-augmented generation (RAG)
+          - Large language model (LLM) and multimodal LLM (MLLM) reasoning
+
       - company: WestlakeNLP
         position: Research Intern
         location: Westlake University, Hangzhou
@@ -41,6 +53,7 @@ cv:
         end_date: present
         summary: Conducting research on large language model post-training methods.
         highlights:
+          - "Instructor: [Prof. Yue Zhang](https://frcchang.github.io/)"
           - Post-training of large language models
 
       - company: ZJU REAL Lab
@@ -50,6 +63,7 @@ cv:
         end_date: 2026-06
         summary: Conducted research on multimodal large language models and LLM reasoning.
         highlights:
+          - "Instructor: [Prof. Yongliang Shen](https://scholar.google.com/citations?user=UT3NzFAAAAAJ)"
           - Multimodal Large Language Models (MLLM)
           - LLM Reasoning
           - Published GSM8K-V benchmark (EMNLP 2026)
@@ -103,14 +117,6 @@ cv:
       - name: AI Research
         icon: fa-solid fa-tag
         keywords: "LLM Reasoning, Multimodal Learning, Vision-Language Models"
-
-    Languages:
-      - name: Chinese
-        summary: "Native speaker"
-      - name: English
-        summary: "Fluent"
-
-    Interests: []
 
     Certificates: []
 

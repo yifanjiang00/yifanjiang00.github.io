@@ -1,1 +1,83 @@
-{"basics": {"name": "Yifan Jiang", "label": "B.Eng in Artificial Intelligence", "image": "", "email": "yifanj670@gmail.com", "summary": "An undergraduate student at Zhejiang University, majoring in Artificial Intelligence. Research interests in LLM reasoning and multimodal learning.", "location": {"address": "866 Yu Hang Tang Lu", "postalCode": "310058", "city": "Hangzhou", "countryCode": "CN", "region": "Zhejiang"}}, "work": [{"name": "WestlakeNLP", "position": "Research Intern", "startDate": "2026-04", "endDate": "present", "summary": "Conducting research on large language model post-training methods.", "highlights": ["Post-training of large language models"]}, {"name": "ZJU REAL Lab", "position": "Research Intern", "startDate": "2025-09", "endDate": "2026-06", "summary": "Conducted research on multimodal large language models and LLM reasoning.", "highlights": ["Multimodal Large Language Models (MLLM)", "LLM Reasoning", "Published GSM8K-V benchmark (EMNLP 2026)"]}], "education": [{"institution": "Zhejiang University", "area": "Artificial Intelligence", "studyType": "B.Eng", "startDate": "2024", "endDate": "2028"}, {"institution": "Hangzhou No.2 High School of Zhejiang Province", "studyType": "High School Diploma", "startDate": "2021", "endDate": "2024"}], "publications": [{"name": "GSM8K-V: Can Vision Language Models Solve Grade School Math Word Problems in Visual Contexts", "publisher": "EMNLP (Main Conference)", "releaseDate": "2026", "url": "https://arxiv.org/abs/2509.25160"}], "projects": [], "skills": [{"name": "Machine Learning & AI", "level": "Intermediate", "keywords": "Large Language Models, Multimodal Learning, MLLM, Reasoning, Post-training"}], "languages": [{"language": "Chinese", "fluency": "Native speaker"}, {"language": "English", "fluency": "Fluent"}], "interests": [{"name": "AI Research", "keywords": "LLM Reasoning, Multimodal Learning, Vision-Language Models"}], "awards": [{"title": "National Scholarship", "date": "2025-10", "awarder": "Ministry of Education, China"}, {"title": "First Prize, College Students' Higher Mathematics Competition of Zhejiang Province", "date": "2025-08", "awarder": "Zhejiang Province"}], "certificates": [], "volunteer": [], "references": []}
+{
+  "basics": {
+    "name": "Yifan Jiang",
+    "label": "B.Eng in Artificial Intelligence",
+    "image": "",
+    "email": "yifanj670@gmail.com",
+    "summary": "An undergraduate student at Zhejiang University, majoring in Artificial Intelligence. Research interests in LLM reasoning and multimodal learning.",
+    "location": { "address": "866 Yu Hang Tang Lu", "postalCode": "310058", "city": "Hangzhou", "countryCode": "CN", "region": "Zhejiang" }
+  },
+  "work": [
+    {
+      "name": "University of Wisconsin–Madison",
+      "position": "Research Intern",
+      "location": "Madison, USA",
+      "url": "https://www.wisc.edu/",
+      "startDate": "2026-08",
+      "endDate": "present",
+      "summary": "Conducting research on retrieval-augmented generation (RAG), LLM reasoning, and multimodal LLM reasoning.",
+      "highlights": [
+        "Instructor: [Prof. Xiao Luo](https://luoxiao12.github.io/)",
+        "Retrieval-augmented generation (RAG)",
+        "Large language model (LLM) and multimodal LLM (MLLM) reasoning"
+      ]
+    },
+    {
+      "name": "WestlakeNLP",
+      "position": "Research Intern",
+      "startDate": "2026-04",
+      "endDate": "present",
+      "summary": "Conducting research on large language model post-training methods.",
+      "highlights": ["Instructor: [Prof. Yue Zhang](https://frcchang.github.io/)", "Post-training of large language models"]
+    },
+    {
+      "name": "ZJU REAL Lab",
+      "position": "Research Intern",
+      "startDate": "2025-09",
+      "endDate": "2026-06",
+      "summary": "Conducted research on multimodal large language models and LLM reasoning.",
+      "highlights": [
+        "Instructor: [Prof. Yongliang Shen](https://scholar.google.com/citations?user=UT3NzFAAAAAJ)",
+        "Multimodal Large Language Models (MLLM)",
+        "LLM Reasoning",
+        "Published GSM8K-V benchmark (EMNLP 2026)"
+      ]
+    }
+  ],
+  "education": [
+    { "institution": "Zhejiang University", "area": "Artificial Intelligence", "studyType": "B.Eng", "startDate": "2024", "endDate": "2028" },
+    { "institution": "Hangzhou No.2 High School of Zhejiang Province", "studyType": "High School Diploma", "startDate": "2021", "endDate": "2024" }
+  ],
+  "publications": [
+    {
+      "name": "GSM8K-V: Can Vision Language Models Solve Grade School Math Word Problems in Visual Contexts",
+      "publisher": "EMNLP (Main Conference)",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2509.25160"
+    }
+  ],
+  "projects": [],
+  "skills": [
+    {
+      "name": "Machine Learning & AI",
+      "level": "Intermediate",
+      "keywords": "Large Language Models, Multimodal Learning, MLLM, Reasoning, Post-training"
+    }
+  ],
+  "languages": [
+    { "language": "Chinese", "fluency": "Native speaker" },
+    { "language": "English", "fluency": "Fluent" }
+  ],
+  "interests": [{ "name": "AI Research", "keywords": "LLM Reasoning, Multimodal Learning, Vision-Language Models" }],
+  "awards": [
+    { "title": "National Scholarship", "date": "2025-10", "awarder": "Ministry of Education, China" },
+    {
+      "title": "First Prize, College Students' Higher Mathematics Competition of Zhejiang Province",
+      "date": "2025-08",
+      "awarder": "Zhejiang Province"
+    }
+  ],
+  "certificates": [],
+  "volunteer": [],
+  "references": []
+}
